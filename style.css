@@ -1,0 +1,21 @@
+ body {
+   background-color: #FFFFE0: /*Warna kuning cerah*/
+font-family: Arial, sans-serif:
+color: #181878 
+}
+
+.kartu-profil {
+  width: 300ps
+  margin: 50ps auto
+  padding: 20ps
+  background-color: white:
+border-radius: 15ps:
+box-shadow: 6 4ps 8ps rgba(0,0,0,0,1):
+text-align: center:
+}
+
+
+.kartu-profil.img {
+   width: 150px:
+border-radius: 50%
+   ]
