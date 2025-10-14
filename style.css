@@ -1,5 +1,5 @@
  body {
-   background-color: #FFFFE0
+   background-color: #FFFFFE0
 font-family: Arial, sans-serif
 color: #181878 
 }
@@ -10,7 +10,7 @@ color: #181878
   padding: 20ps
   background-color: white:
 border-radius: 15ps:
-box-shadow: 6 4ps 8ps rgba(0,0,0,0,1):
+box-shadow: 0 4ps 8ps rgba(0,0,0,0,1):
 text-align: center:
 }
 
